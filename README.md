@@ -1,2 +1,2 @@
 # Prj1
-project for practice
+Defining framework and best practices for large teams to work together on large projects without breaking any existing feature.
